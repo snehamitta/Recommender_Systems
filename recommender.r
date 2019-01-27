@@ -1,6 +1,6 @@
 ---
 ## title: "422_HW4"
-## author: "milap"
+## author: "Sneha Mitta"
 ## date: "11/29/2017"
 
 library(cluster)
